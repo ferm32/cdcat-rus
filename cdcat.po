@@ -1,0 +1,1241 @@
+# vitaly <ferm32@gmail.com>, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-08-10 01:54+0400\n"
+"PO-Revision-Date: 2013-08-14 13:25+0400\n"
+"Last-Translator: vitaly <ferm32@gmail.com>\n"
+"Language-Team: Vitaly A. Kuzmin's right russian translations team\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Virtaal 0.7.1\n"
+"X-Language: ru_RU\n"
+
+msgid "01. Aug 2012"
+msgstr "1 августа 2012 г."
+
+#
+msgid "02. Aug. 2012"
+msgstr "2 августа 2012 г."
+
+#
+msgid "03. Feb 2011"
+msgstr "3 февраля 2011 г."
+
+#
+msgid "04. Jan 2013"
+msgstr "4 января 2013 г."
+
+#
+msgid "08. Feb. 2012"
+msgstr "8 февраля 2012 г."
+
+#
+msgid "08. Mar 2011"
+msgstr "8 марта 2011 г."
+
+#
+msgid "${1}"
+msgstr "${1}"
+
+#
+msgid "12. Aug 2011"
+msgstr "12 августа 2011 г."
+
+#
+msgid "${1} (${2}) released."
+msgstr "Выпущена ${1} (${2})."
+
+#
+msgid ""
+"${1} (${2}) released. This release contains a lot of fixes and some new "
+"features. Also patches for ${3} and updated versions of ${4} now available."
+msgstr ""
+"Выпущена ${1} (${2}), со многими исправлениями и несколькими новыми "
+"функциями. Кроме того, теперь доступны патчи для ${3} и обновлённые версии "
+"${4}."
+
+#
+msgid ""
+"${1} (${2}) released. This release contains a lot of new features and fixes."
+msgstr "Выпущена ${1} (${2}) со многими новыми функциями и исправлениями."
+
+#
+msgid "13. May 2012"
+msgstr "13 мая 2012 г."
+
+#
+msgid "15. May 2012"
+msgstr " 15 мая 2012 г."
+
+#
+msgid "17. Feb 2012"
+msgstr "17 февраля 2012 г."
+
+#
+msgid "17. Nov 2010"
+msgstr "17 ноября 2010 г."
+
+#
+msgid "19. Feb 2012"
+msgstr "19 февраля 2012 г."
+
+#
+msgid "${1} uploaded."
+msgstr "Доступна для скачивания ${1}."
+
+#
+msgid "${1} version:"
+msgstr "версия ${1}:"
+
+#
+msgid "21. Okt 2012"
+msgstr "21 октября 2012 г."
+
+#
+msgid "22. Jan 2011"
+msgstr "22 января 2011 г."
+
+#
+msgid "24. Nov 2010"
+msgstr "24 ноября 2010 г."
+
+#
+msgid "29. Jan 2012"
+msgstr "29 января 2012 г."
+
+#
+msgid "29. Mar 2012"
+msgstr "29 марта 2012 г."
+
+#
+msgid "30. May 2011"
+msgstr "30 мая 2011 г."
+
+#
+msgid "5. Aug 2011"
+msgstr "5 августа 2011 г."
+
+#
+msgid "Additional programmers"
+msgstr "Участвовали в разработке"
+
+#
+msgid "Advanced Disk Catalog (CSV) +"
+msgstr "Advanced Disk Catalog (CSV) +"
+
+#
+msgid "Advanced File Organizer *"
+msgstr "Advanced File Organizer *"
+
+#
+msgid "After you subsribe the mail address of the list is:"
+msgstr ""
+"После того, как вы подпишетесь, адрес электронной почты списка рассылки "
+"будет:"
+
+#
+msgid "album"
+msgstr "альбом"
+
+#
+msgid "All Files are signed by the public sign key (${1}) using ${2}."
+msgstr "Все файлы подписаны публичным ключом (${1}) с использованием ${2}."
+
+#
+msgid ""
+"All libraries except lib7zip and mediainfo are included in the Linux "
+"distributions. You will need the development packages if they too if you "
+"compile from source."
+msgstr ""
+"Все библиотеки, за исключением lib7zip и mediainfo уже есть в дистрибутивах "
+"Linux. Если вы захотите компилировать программу из исходников, вам "
+"понадобятся пакеты инструментов разработчика."
+
+#
+msgid ""
+"Animated symbol in system tray, minizing of the main window into dock "
+"possible"
+msgstr ""
+"Анимированный значок в панели задач для быстрого свёртывания главного окна"
+
+#
+msgid "artist"
+msgstr "исполнитель"
+
+#
+msgid "Author"
+msgstr "Автор"
+
+#
+msgid "Author of CdCat"
+msgstr "Автор CdCat"
+
+#
+msgid "Author, questions, patches:"
+msgstr "Автор, обратная связь для вопросов и патчей:"
+
+#
+msgid "Autoload database on startup"
+msgstr "Автозагрузка базы данных при запуске программы"
+
+#
+msgid "Batch file renamer ${1}"
+msgstr "Командный файл для переименования ${1}"
+
+#
+msgid "Binary for ${1}:"
+msgstr "Готовые пакеты для ${1}:"
+
+#
+msgid "Binary for linux:"
+msgstr "Готовые пакеты для Linux:"
+
+#
+msgid "Binary for MacOS/X (untested):"
+msgstr "Готовые пакеты для MacOS/X (требует тестирования):"
+
+#
+msgid "Binary for OS/2: (ecomstation):"
+msgstr "Готовые пакеты для OS/2: (ecomstation):"
+
+#
+msgid "Binary for Windows:"
+msgstr "Готовые пакеты для Windows:"
+
+#
+msgid "Bug reports, Questions, Request, Patches, etc:"
+msgstr "Отчёты об ошибках, вопросы, запросы новых функций, патчи и т. д.:"
+
+#
+msgid "Bug tracker:"
+msgstr "Система отслеживания ошибок:"
+
+#
+msgid "Bugtracker at Sourceforge: ${1}"
+msgstr "Система отслеживания ошибок на Sourceforge: ${1}"
+
+#
+msgid "Can mount/umount/eject the cd-drive on Linux"
+msgstr "Может монтировать/размонтировать/извлекать CD/DVD-диск под Linux"
+
+#
+msgid "Category support *"
+msgstr "Поддержка категорий *"
+
+#
+msgid ""
+"Cdcat can store the content of some specified files up to a size limit if "
+"you want. (for example: *.nfo)"
+msgstr ""
+"Cdcat может сохранять содержимое файлов указанного типа (например: *.nfo), "
+"для которых можно указать максимальный размер."
+
+#
+msgid ""
+"CdCat, Catalog ,CD ,DVD ,mp3 ,data , Hyper,XML ,qt4, gzip, bzip2, tar, 7zip, "
+"lib7zip, 7z, Multiplatform, Linux, Windows, MacOS/X, OS/2, ecomstation"
+msgstr ""
+"CdCat, Каталог ,CD ,DVD, mp3 ,данные , Hyper,XML ,Qt4, gzip, bzip2, tar, "
+"7zip, lib7zip, 7z, мультиплатформенный, Linux, Windows, MacOS/X, OS/2, "
+"ecomstation"
+
+#
+msgid ""
+"CdCat, Catalog ,CD, DVD,mp3, data , Hyper,XML ,qt4, gzip, bzip2, tar, 7zip, "
+"lib7zip, 7z, Multiplatform, Linux, Windows, MacOS/X, OS/2, ecomstation"
+msgstr ""
+"CdCat, Каталог ,CD, DVD,mp3, данные , Hyper,XML ,Qt4, gzip, bzip2, tar, "
+"7zip, lib7zip, 7z, Мультиплатформенный, Linux, Windows, MacOS/X, OS/2, "
+"ecomstation"
+
+#
+msgid "CdCat - Multiplatform Media Catalog Program"
+msgstr "CdCat - мультиплатформенная программа-каталогизатор различный носителей"
+
+#
+msgid "cdcat team"
+msgstr "команда cdcat"
+
+#
+msgid "ChangeLog"
+msgstr "История изменений"
+
+#
+msgid "Changes"
+msgstr "изменения"
+
+#
+msgid "Click to view ${1}version."
+msgstr "Нажмите, чтобы просмотреть версию ${1}."
+
+#
+msgid "comment"
+msgstr "комментарий"
+
+#
+msgid "compile page"
+msgstr "страница компиляции"
+
+#
+msgid "Compiling"
+msgstr "Компиляция"
+
+#
+msgid "Compiling:"
+msgstr "Компиляция:"
+
+#
+msgid "Contact"
+msgstr "Контакты"
+
+#
+msgid "Contact author by email:"
+msgstr "Связаться с автором по эл. почте:"
+
+#
+msgid ""
+"Contains the directory browser, the file browser, and the comment frame "
+"which shows: name, size(if the element is file), last modification, the "
+"owner(of the media) The name and the number of the media, mp3 tags if "
+"exists, and a user comment which editable anytime."
+msgstr ""
+"Содержит просмотрцик дерева папок, файлов и окно комментария, которое "
+"отображает: имя, размер (для файла), время последнего изменения, владельца "
+"(носителя), имя и номер носителя, тэги mp3 (если они есть) и произвольный "
+"комментарий, который можно изменить в любое время."
+
+#
+msgid "content"
+msgstr "содержимое"
+
+#
+msgid "CSV"
+msgstr "CSV"
+
+#
+msgid "Current version:"
+msgstr "Текущая версия:"
+
+#
+msgid "Czech"
+msgstr "Чешский"
+
+#
+msgid "Description:"
+msgstr "Описание:"
+
+#
+msgid "Development source access:"
+msgstr "Доступ к исходным файлам для разработчиков:"
+
+#
+msgid "directory name"
+msgstr "имя папки"
+
+#
+msgid "Disclib (CSV) *"
+msgstr "Disclib (CSV) *"
+
+#
+msgid "Discuss on IRC: #cdcat on irc.freenode.net"
+msgstr "Обсуждение по IRC: канал #cdcat на irc.freenode.net"
+
+#
+msgid "Display progress at scan *"
+msgstr "Отображение прогресса сканирования *"
+
+#
+msgid "docksymbol"
+msgstr "значок для быстрого свёртывания окна"
+
+#
+msgid "download"
+msgstr "скачать"
+
+#
+msgid "Download"
+msgstr "Скачать"
+
+#
+msgid "Downloading cdcat"
+msgstr "Скачать cdcat"
+
+#
+msgid "download page"
+msgstr "Страница скачивания"
+
+#
+msgid "download statistics"
+msgstr "статистика скачивания"
+
+#
+msgid "E-mail:"
+msgstr "Адрес e-mail:"
+
+#
+msgid "Email:"
+msgstr "Адрес e-mail:"
+
+#
+msgid "end date *"
+msgstr "дата окончания *"
+
+#
+msgid "Englisch"
+msgstr "Английский"
+
+#
+msgid "English only"
+msgstr "Только английский"
+
+#
+msgid "(English or German)"
+msgstr "(английский или немецкий)"
+
+#
+msgid "expat XML parsing library"
+msgstr "библиотека разбора expat XML"
+
+#
+msgid ""
+"expat XML parsing library (ver &gt;= 1.95.2) (not needed with >= 1.1beta2)"
+msgstr ""
+"библиотека разбора expat XML (версии &gt;= 1.95.2) (не требуется для версий "
+">= 1.1beta2)"
+
+#
+msgid "Export"
+msgstr "Экспорт"
+
+#
+msgid "Export of search results to HTML"
+msgstr "Экспорт результатов поиска в HTML"
+
+#
+msgid "Extracting exif data from pictures (jpg only)"
+msgstr "Извлечение из изображений данных exif (только для jpeg)"
+
+#
+msgid ""
+"Extracting exif data from pictures (jpg only, not enabled at win32 builds)"
+msgstr ""
+"Извлечение из изображений данных exif (только для jpeg, не работает в "
+"сборках под Windows)"
+
+#
+msgid "Feature request at Sourceforge:"
+msgstr "Запрос новой функциональности через Sourceforge:"
+
+#
+msgid "Features:"
+msgstr "Возможности:"
+
+#
+msgid "File Archivist +"
+msgstr "Файловый архиватор +"
+
+#
+msgid "file name"
+msgstr "имя файла"
+
+#
+msgid "FRAMELESS"
+msgstr "FRAMELESS"
+
+#
+msgid "French"
+msgstr "Французский"
+
+#
+msgid "from 1.9, optional"
+msgstr "начиная с 1.9 необязательна"
+
+#
+msgid "(from germany)"
+msgstr "(Германия)"
+
+#
+msgid "(from hungary)"
+msgstr "(Венгрия)"
+
+#
+msgid "Full unicode support *"
+msgstr "Полная поддержка unicode *"
+
+#
+msgid "German"
+msgstr "Немецкий"
+
+#
+msgid "gtktalog (CSV, XML classical)"
+msgstr "gtktalog (CSV, классический XML)"
+
+#
+msgid ""
+"He had study communication computer sience at university for applied "
+"sciences of Wernigerode."
+msgstr ""
+"Изучал научные дисциплины, связанные с компьютерными коммуникациями в "
+"Университете прикладных наук города Вернигорода."
+
+#
+msgid ""
+"He is programming free software (open source), preferred QT/KDE. He is the "
+"current active maintainer."
+msgstr ""
+"Программирует свободное программное обеспечение с открытым исходным кодом, "
+"предпочитает Qt/KDE. В настоящее время - активный разработчик."
+
+#
+msgid ""
+"He is studying communication computer sience at university for applied "
+"sciences of Wernigerode. ${1}He is programming free software (open source), "
+"preferred QT/KDE."
+msgstr ""
+"Изучал научные дисциплины, связанные с компьютерными коммуникациями в "
+"Университете прикладных наук города Вернигорода. ${1} Занимается "
+"программированием свободного программного обеспечения (с открытыми исходными "
+"текстами), предпочитает Qt/KDE."
+
+#
+msgid "Help for compiling cdcat can be found in the sourcecode of cdcat:"
+msgstr ""
+"Информация, необходимая для компиляции cdcat, можно найти в исходных текстах"
+
+#
+msgid "HTML"
+msgstr "HTML"
+
+#
+msgid "Hungarian"
+msgstr "Венгерский"
+
+#
+msgid "Hyper's CdCatalog"
+msgstr "Hyper's CdCatalog"
+
+#
+msgid "Hyper's CD Catalog"
+msgstr "Hyper's CD Catalog"
+
+#
+msgid "Hyper's CD Catalog - ${1}"
+msgstr "Hyper's CD Catalog - ${1}"
+
+#
+msgid "Hyper's CdCatalog ${1} ${2} ${3}"
+msgstr "Hyper's CdCatalog ${1} ${2} ${3}"
+
+#
+msgid "Hyper's CD Catalog - author"
+msgstr "Hyper's CD Catalog - автор"
+
+#
+msgid "Hyper's CD Catalog - compiling"
+msgstr "Hyper's CD Catalog - компиляция"
+
+#
+msgid "Hyper's CD Catalog - other programs"
+msgstr "Hyper's CD Catalog - другие программы"
+
+#
+msgid "Hyper's CD Catalog - screenshots"
+msgstr "Hyper's CD Catalog - снимки экрана"
+
+#
+msgid "Hyper's other programs:"
+msgstr "Другие программы, созданные Hyper:"
+
+#
+msgid "if enabled, supported file extensions:"
+msgstr "если включено, поддерживает расширения файлов:"
+
+#
+msgid ""
+"If you got error messages try to re-generate the Makefile by running qmake "
+"(QT tool)"
+msgstr ""
+"Если вы получили сообщение об ошибке, попробуйте перегенерировать Makefile с "
+"помощью запуска qmake (из инструментария Qt)"
+
+#
+msgid "Import from other catalog programs:"
+msgstr "Импорт из других программ-каталогизаторов:"
+
+#
+msgid ""
+"improved ${1} uploaded (lib7zip compiled in, 7z.so shipped), ${2} (${3} "
+"included) uploaded"
+msgstr ""
+"Доступен для скачивания улучшенный ${1} (с вкомпилированным lib7zip, есть "
+"7z.so), доступны для скачивания ${2} (${3} включен)"
+
+#
+msgid "Indonesian"
+msgstr "Индонезийский"
+
+#
+msgid "IRC:"
+msgstr "IRC:"
+
+#
+msgid "Italian"
+msgstr "Итальянский"
+
+#
+msgid "KatDeCe (CSV) *"
+msgstr "KatDeCe (CSV) *"
+
+#
+msgid "Last update"
+msgstr "Последнее обновление"
+
+#
+msgid "lib7zip 7zip wrapper library"
+msgstr "библиотека-обёртка для 7zip - lib7zip"
+
+#
+msgid "lib7zip 7zip wrapper library(version &gt;= 1.4.1, optional) (from 1.4)"
+msgstr ""
+"библиотека-обёртка для 7zip - lib7zip (версии &gt;= 1.4.1, необязательна) "
+"(начиная с версии 1.4)"
+
+#
+msgid "lib7zip for Linux:"
+msgstr "lib7zip для Linux:"
+
+#
+msgid "libbzip2 library"
+msgstr "библиотека libbzip2"
+
+#
+msgid "libbzip2 library (version &gt;= 1.0.0) (from 1.4)"
+msgstr "библиотека libbzip2 (версии &gt;= 1.0.0) (начиная с 1.4)"
+
+#
+msgid "libexiv exif data library"
+msgstr "библиотека для обработки данных exif libexif"
+
+#
+msgid "libexiv Exifdaten-Bibliothek (from 1.9, optional>)"
+msgstr ""
+"библиотека для обработки данных Exif libexif (начиная с версии 1.9 "
+"необязательна)"
+
+#
+msgid "libtar library"
+msgstr "библиотека libtar"
+
+#
+msgid "libtar library (version &gt;= 1.2.11) (from 1.4)"
+msgstr "бибилиотека libtar (версии &gt;= 1.2.11) (начиная с версии 1.4)"
+
+#
+msgid "License: GPL"
+msgstr "Лицензия: GPL"
+
+#
+msgid "Links to other programs"
+msgstr "Ссылки на другие программы"
+
+#
+msgid "Linux:"
+msgstr "Linux:"
+
+#
+msgid "Linux binary download"
+msgstr "Скачать готовый пакет для Linux"
+
+#
+msgid "Linux generic"
+msgstr "Обычный Linux"
+
+#
+msgid "Localizion (not all finisched):"
+msgstr "Локализации (завершены не все):"
+
+#
+msgid "Mac OS/X:"
+msgstr "Mac OS/X:"
+
+#
+msgid "MacOS/X binary download"
+msgstr "Скачать готовый пакет для MacOS/X"
+
+#
+msgid "Mailing list:"
+msgstr "Список рассылки:"
+
+#
+msgid "Mailing list (everyone who like to get news, developers, translators):"
+msgstr ""
+"Список рассылки (для тех, кто хочет получать новости, для разрабочиков и "
+"переводчиков):"
+
+#
+msgid "Main window"
+msgstr "Главное окно"
+
+#
+msgid "max file size *"
+msgstr "максимальный размер файла *"
+
+#
+msgid "mediainfo media info library"
+msgstr "библиотека для получения информации о носителе mediainfo"
+
+#
+msgid ""
+"mediainfo media info library (version &gt;= 0.7.47) (from 1.5, optional)"
+msgstr ""
+"библиотека для получения информации о носителе mediainfo (версии &gt;= "
+"0.7.47) (начиная с версии 1.5, необязательна)"
+
+#
+msgid "media name"
+msgstr "имя носителя"
+
+#
+msgid "Midnight Commander plugin for .hcf files (cdcat files) source:"
+msgstr ""
+"Исходные тексты плагина для Midnight Commander для работы с файлами cdcat "
+"(.hcf):"
+
+#
+msgid "min file size *"
+msgstr "минимальный размер файла *"
+
+#
+msgid "Modern Greek"
+msgstr "Современный греческий"
+
+#
+msgid "mp3 tags (artist, title, album, year)"
+msgstr "Тэги mp3 (исполнитель, название, альбом, год)"
+
+#
+msgid "My other programs:"
+msgstr "Мои другие программы:"
+
+#
+msgid "News:"
+msgstr "Новости:"
+
+#
+msgid "Nokia Qt graphic library"
+msgstr "Графическая библиотека Nokia Qt"
+
+#
+msgid "Nokia Qt graphic library (ver &gt;= 2.3.0/4.4.0)"
+msgstr "графическая библиотека Nokia Qt (версии &gt;= 2.3.0/4.4.0)"
+
+#
+msgid ""
+"Note: You only need this, if no binary for your operating system is not "
+"available or you want to use the latest development version."
+msgstr ""
+"Замечание: Приведённая информация предназначена лишь для тех, кто не нашёл "
+"готовой сборки под вашу операционную систиему, или для тех, кто хочет "
+"использовать текущий срез исходных текстов (версию для разработчиков)."
+
+#
+msgid "OpenSuSE 12.1 package"
+msgstr "Пакет под OpenSuSE 12.1"
+
+#
+msgid "OS/2 (ecomstation) binary download"
+msgstr "Скачать готовый пакет для OS/2 (ecomstation)"
+
+#
+msgid "Other programs"
+msgstr "Другие программы"
+
+#
+msgid "p7zip library"
+msgstr "библиотека p7zip"
+
+#
+msgid "p7zip library (version &gt;= 9.20.1) (from 1.4, optional)"
+msgstr ""
+"библиотека p7zip (версии &gt;= 9.20.1) (начиная с версии 1.4 не является "
+"обязательной)"
+
+#
+msgid "package needed"
+msgstr "устанавливаются отдельно"
+
+#
+msgid ""
+"packages for ${1} uploaded (incl. ${2}). Note: mediainfo is disabled because "
+"no package available."
+msgstr ""
+"Доступны для скачивания пакеты для ${1} (вкл. ${2}). Замечание: mediainfo "
+"отключена, потому что нет доступного пакета."
+
+#
+msgid "Packages for Debian Lenny and Ubuntu Oneiric uploaded (incl. lib7zip)."
+msgstr ""
+"Доступны для скачивания пакеты под Debian Lenny и Ubuntu Oneiric (lib7zip "
+"включён)."
+
+#
+msgid "pcre Perl compatible regular expression library"
+msgstr "библитека для работы с Perl-совместимыми регулярными выражениями pcre"
+
+#
+msgid ""
+"pcre Perl compatible regular expression library (ver &gt;= 3.9) (not needed "
+"with >= 1.1beta2)"
+msgstr ""
+"библитека для работы с Perl-совместимыми регулярными выражениями pcre "
+"(версии &gt;= 3.9) (не требуется для версий >= 1.1beta2)"
+
+#
+msgid "Platform indepentent Gzipped XML format."
+msgstr "Платформо-независимый сжатый с помощью Gzip формат XML"
+
+#
+msgid "Polish"
+msgstr "Польский"
+
+#
+msgid "Portogisian"
+msgstr "Португальский"
+
+#
+msgid "Possibility to add comment for files or directories."
+msgstr "Возможность добавления комментариев для файлов или папок."
+
+#
+msgid "Prerequisites:"
+msgstr "Требования:"
+
+#
+msgid "Print search results"
+msgstr "Распечатка результатов поиска"
+
+#
+msgid "Progress at loading catalog (useful at big size) *"
+msgstr ""
+"Отображение прогресса загрузки каталога (полезно для больших объёмов данных) "
+"*"
+
+#
+msgid "Qt3"
+msgstr "Qt3"
+
+#
+msgid "Qt3 version:"
+msgstr "Версия Qt3:"
+
+#
+msgid "Qt4"
+msgstr "Qt4"
+
+#
+msgid ""
+"Qt4 ${1} available. First error corrections are done. More infos available "
+"at the ${2}."
+msgstr ""
+"Доступен ${1} для Qt4. Сделаны первые исправления ошибок. Дополнительная "
+"информация доступна на${2}."
+
+#
+msgid "Qt4 version"
+msgstr "Версия Qt4"
+
+#
+msgid "Read file content from the specified files (e.g: *.nfo)"
+msgstr "Чтение содержимого файлов указанного типа (например, *.nfo)"
+
+#
+msgid "Reading *.nfo and *.diz files"
+msgstr "Чтение файлов *.nfo и *.diz"
+
+#
+msgid "Reading of the filesystem structure from archives"
+msgstr "Чтение стуктуры файловой системы из архивов"
+
+#
+msgid "Reading technical file information"
+msgstr "Чтение технической информации файла"
+
+#
+msgid "Read mp3 tags (if you enable it)"
+msgstr "Чтение тэгов mp3 (при активации данной функции)"
+
+#
+msgid "Request new features:"
+msgstr "Запрос новых возможностей:"
+
+#
+msgid "Russian"
+msgstr "Русский (автор ferm32)"
+
+#
+msgid "saved file content can open with user defined program"
+msgstr "сохранённое содержимое файла может быть открыто программой по умолчанию"
+
+#
+msgid "Saving thumbnails pictures of pictures inside catalog"
+msgstr "Сохранение миниатюр изображений внутри каталога"
+
+#
+msgid "Screenshots"
+msgstr "Снимки экрана"
+
+#
+msgid "Searching window"
+msgstr "Окно поиска"
+
+#
+msgid "Searching with regex or wildcards:"
+msgstr "Поиск и использованием шаблонов и регулярных выражений"
+
+#
+msgid "Serbian"
+msgstr "Сербский"
+
+#
+msgid ""
+"Skip files /directories on scanning using regular expressions or wildcards"
+msgstr ""
+"Пропустить файлы / папки при сканировании в соответствии с шаблоном или "
+"регулярным выражением"
+
+#
+msgid "Source code:"
+msgstr "Исходные тексты:"
+
+#
+msgid "Source code repository"
+msgstr "репозиторий с исходными текстами"
+
+#
+msgid "Spain"
+msgstr "Испанский"
+
+#
+msgid "start date *"
+msgstr "дата начала *"
+
+#
+msgid "Subscribe at mailinglist:"
+msgstr "Подписаться на список рассылки:"
+
+#
+msgid "Subscribe page:"
+msgstr "Страница для подписки:"
+
+#
+msgid "supported file extensions:"
+msgstr "поддерживаемые расширения файлов:"
+
+#
+msgid "testing"
+msgstr "тестирования"
+
+#
+msgid ""
+"Than you even got error messages try to check dependencies and rights!${1} "
+"(before you send me bug report :-) )"
+msgstr ""
+"Если вы всё равно получаете сообещния об ошибках, перед тем, как слать мне "
+"рапорт об ошибке, попробуйте проверить зависимости и права!${1}"
+
+#
+msgid ""
+"That case you didn't get any error login as root and type: ${1}${2}${3}${4} "
+"This command copy the compiled files to the necessary place."
+msgstr ""
+"В случае, если вы не получили сообщений об ошибке, зарегестрируйтесь как "
+"root и наберите: ${1}${2}${3}${4} Эта команда скопирует скомпилированные "
+"файлы в положенное место."
+
+#
+msgid ""
+"The 7zip library (7z.so/7z.dll) must be available at runtime for supporting "
+"a lot of file extensions at archive scanning. You can check if its loaded if "
+"there is a long list of file extensions at settings - Select additional "
+"items to read - supported file extensions."
+msgstr ""
+"Библиотека 7zip (7z.so/7z.dll) должна быть доступна во время выполнения "
+"программы для поддержки при сканировании архивов множества файловых "
+"расширений. Вы можете проверить, загружена ли она, поискав длинный список "
+"поддерживаемых файловых расширений в настройках - Выбрать дополнительные "
+"элементы для чтения - поддерживаемые расширения файлов."
+
+#
+msgid ""
+"The authenticy of a file can be checked using the corresponding ${1} file:"
+msgstr ""
+"Подлинность файла может быть проверена с использованем соответствующего "
+"файла ${1}:"
+
+#
+msgid ""
+"The author is studied computer programming at University of Debrecen, and "
+"tried to write many useful programs for everyone on the world who likes its."
+msgstr ""
+"Автор проходил обучение программированию компьютеров в Университете "
+"Дебрецена, и пробовал пискать множество полезных программ для всех тех во "
+"всём мире, кому они могли понравится."
+
+#
+msgid ""
+"The author is studied computer programming at University of Debrecen, and "
+"tried to write many useful programs for everyone on the world who likes its. "
+"He moved avay from cdcat development."
+msgstr ""
+"Автор проходил обучение программированию компьютеров в Университете "
+"Дебрецена, и пробовал пискать множество полезных программ для всех тех во "
+"всём мире, кому они могли понравится. В  разработке cdcat он больше не "
+"учавствует."
+
+#
+msgid ""
+"The cdcat is graphical (QT based) multiplatform (Linux / Windows / MacOS/X / "
+"OS/2) catalog program which scans the directories/drives you want and "
+"memoryze the filesystem (including the tags of mp3's) and store it in a "
+"small file. The used license is GPL. The database is stored in a gzipped XML "
+"format, so you can hack it, or use it if necessary :-)"
+msgstr ""
+"Cdcat - это графическая (на базе Qt) многоплатформенная (Linux / Windows / "
+"MacOS/X / OS/2) программа-каталогизатор, которая сканирует заданные вами "
+"папки/диски и собирает сведения о файловой системе (включая mp3-тэги) и "
+"сохраняет их в небольшом файле. Тип лицензии - GPL. База данных сохраняется "
+"в сжатом с применением gzip формате XML, поэтому вы можете, если это "
+"необходимо, заглянуть в него и как-либо использовать. :-)"
+
+#
+msgid ""
+"The development of cdcat continues! The new maintainer is now Christoph "
+"Thielecke. The first step is the new Beta which is ported to Qt4 for ${1} "
+"available."
+msgstr ""
+"Разработка cdcat продожена! Теперь его сопровождает Christoph Thielecke. "
+"Первым его шагом стал выпуск новой бета-версии, которая портирована под Qt4 "
+"для ${1}."
+
+#
+msgid "The dock symbol:"
+msgstr "Значок для быстрого свёртывания:"
+
+#
+msgid ""
+"The lib7zip library compiling requires the p7zip sourcecode (WIN32: 7zip "
+"sourcecode)."
+msgstr ""
+"Компиляция библиотеки lib7zip требует наличия исходных текстов p7zip (в "
+"случае Windows - исходных текстов 7zip)."
+
+#
+msgid "The main program was written by ${1}"
+msgstr "Основная программа была написана ${1}"
+
+#
+msgid "The main program was written by ${1} (from hungary)"
+msgstr "Основная программа была написана ${1} (Венгрия)"
+
+#
+msgid "The main window:"
+msgstr "Главное окно:"
+
+#
+msgid ""
+"The mediainfo library is optional. At compile time the mediainfo header file "
+"(${1}) must be in include pfad (subfolder MediaInfoDLL)"
+msgstr ""
+"Наличие библиотеки midiainfo необязательно. Во время компиляции файл "
+"заголовка mediainfo (${1}) должен присутствовать в подпапке MediaInfoDLL"
+
+#
+msgid "then type:"
+msgstr "далее наберите:"
+
+#
+msgid "The searching window:"
+msgstr "Окно поиска:"
+
+#
+msgid "The status line (bottom) shows the full path of the actual element."
+msgstr "Строка статуса (снизу) отображает полный путь текущего элемента."
+
+#
+msgid "The status line (bottom) shows the full path of the actual element.${1}"
+msgstr "Строка статуса (снизу) отображает полный путь текущего элемента.${1}"
+
+#
+msgid ""
+"This release adds archive file scan support which also requires now "
+"libbzip2, libtar, p7zip/7zip (lib) and lib7zip. Read more at ${1}"
+msgstr ""
+"В данном выпуске добавлена поддержка сканирования архивных файлов, которая "
+"требует наличия библиотек libbzip2, libtar, p7zip/7zip and lib7zip. "
+"Подробнее здесь ${1}"
+
+#
+msgid "This release contains a lot of fixes."
+msgstr "Этот выпуск содержит множестов исправлений."
+
+#
+msgid ""
+"This release contains a lot of new features and fixes. The Qt3 compat "
+"classes are no longer nessary.OS/2 (ecomstation) are now supported."
+msgstr ""
+"Этот выпуск содержит множество новых возможностей и исправлений. Классы "
+"совместимости Qt3 более не нужны. Добавлена поддержка OS/2 (ecomstation)."
+
+#
+msgid "title"
+msgstr "заголовок"
+
+#
+msgid "track"
+msgstr "трек"
+
+#
+msgid ""
+"Unpack the source, and check te prerequisites! If it is done, check or set "
+"the QTDIR envronment variable (It must point the root directory of Qt.)"
+msgstr ""
+"Распакуйте исходные тексты, и проверьте выполнение требований для сборки. "
+"Если они выполнены, проверьте наличие переменной окружения QTDIR (она должна "
+"указывать на корневую папку с Qt)."
+
+#
+msgid "Unsharp search"
+msgstr "Нестрогий поиск"
+
+#
+msgid "ver >= 3.9, not needed with >= 1.1beta2"
+msgstr "версии >= 3.9, не требутеся для >= 1.1beta2"
+
+#
+msgid "version >= 0.7.47, from 1.5, optional"
+msgstr "версии >= 0.7.47, начиная с 1.5 не является обязательной"
+
+#
+msgid "version >= 1.0.0, from 1.4"
+msgstr "версии >= 1.0.0, начиная с 1.4"
+
+#
+msgid "version >= 1.1.4"
+msgstr "версии >= 1.1.4"
+
+#
+msgid "version >= 1.2.11, from 1.4"
+msgstr "версии >= 1.2.11, начиная с 1.4"
+
+#
+msgid "version >= 1.4.1, from 1.4, optional"
+msgstr "версии >= 1.4.1, начиная с 1.4, не является обязательной"
+
+#
+msgid "version >= 1.95.2, not needed with >= 1.1beta2"
+msgstr "версии >= 1.95.2, не требуется для >= 1.1beta2"
+
+#
+msgid "Version 1.9 under Linux"
+msgstr "Версия 1.9 под Linux"
+
+#
+msgid "Version 2.0 under OS/2"
+msgstr "Версия 2.0 под OS/2"
+
+#
+msgid "Version 2.0 under Windows"
+msgstr "Версия 2.0 под Windows"
+
+#
+msgid "version >= 2.3.0/4.4.0"
+msgstr "версии >= 2.3.0/4.4.0"
+
+#
+msgid "version >= 9.20.1, from 1.4, optional"
+msgstr "версии >= 9.20.1, начиная с 1.4, не является обязательной"
+
+#
+msgid "View entries:"
+msgstr "Система отслеживания ошибок (tickets tracker):"
+
+#
+msgid "View page with english language."
+msgstr "Страница просмотра (английский язык)."
+
+#
+msgid "Virtual Volumes View (CSV) *"
+msgstr "Просмотр виртуальных томов (CSV) *"
+
+#
+msgid "VisualCD (CSV) *"
+msgstr "VisualCD (CSV) *"
+
+#
+msgid "What's this?"
+msgstr "Что это?"
+
+#
+msgid ""
+"When the resoults of the searching is done, the main window always shows the "
+"actual element in the list of results."
+msgstr ""
+"Когда результаты поиска будут найдены, главное окно в списке результатов "
+"всегда отображает текущий элемент."
+
+#
+msgid "WhereIsIt? (CSV, XML)"
+msgstr "WhereIsIt? (CSV, XML)"
+
+#
+msgid "windows:"
+msgstr "окна:"
+
+#
+msgid "Windows:"
+msgstr "Windows:"
+
+#
+msgid "Windows binary download"
+msgstr "Скачать готовый пакет для Windows"
+
+#
+msgid "Write a message to list:"
+msgstr "Написать сообщение в список рассылки:"
+
+#
+msgid "XML"
+msgstr "XML"
+
+#
+msgid "year"
+msgstr "год"
+
+#
+msgid ""
+"You can search with regex or windows style wildcards ( ?,*). You can limit "
+"the searching to media or media owners. The program optionally can matching "
+"with filenames,directory names, comments and all mp3 tags."
+msgstr ""
+"Вы можете искать с применением регулярных выражений или шаблонов в стиле "
+"Windows ( ?,*). Вы можете ограничиться поиском на определённых носителях или "
+"по их владельцам. При желании программа может искать по именам файлов, "
+"папок, комментариям и по mp3-тэгам."
+
+#
+msgid "You can see the modifications between the versions in the ${1}"
+msgstr "Изменения от версии к версии можно посмотреть в ${1}"
+
+#
+msgid "zlib data compression library"
+msgstr "библиотека для работы со сжатыми данными zlib"
+
+#
+msgid "zlib data compression library (ver &gt;= 1.1.4)"
+msgstr "библиотека для работы со сжатыми данными zlib (версии &gt;= 1.1.4)"
